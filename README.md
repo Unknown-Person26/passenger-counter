@@ -1,4 +1,4 @@
-# cMLr3asK
+# counter app
 
 Quick start:
 
